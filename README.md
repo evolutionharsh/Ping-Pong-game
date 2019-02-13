@@ -1,1 +1,1 @@
-4-DOM-pig-game
+Ping-Pong game made in javascript
